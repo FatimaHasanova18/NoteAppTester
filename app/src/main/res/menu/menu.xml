@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/bold"
+        android:icon="@drawable/img_10"
+        android:title="@string/one" />
+    <item
+        android:id="@+id/italic"
+        android:icon="@drawable/img_11"
+        android:title="@string/one" />
+    <item
+        android:id="@+id/underline"
+        android:icon="@drawable/img_12"
+        android:title="@string/one" />
+    <item
+        android:id="@+id/textstyle"
+        android:icon="@drawable/img_13"
+        android:title="@string/one" />
+    <item
+        android:id="@+id/hizalanmis"
+        android:icon="@drawable/img_14"
+        android:title="@string/one" />
+    <item
+        android:id="@+id/start"
+        android:icon="@drawable/img_15"
+        android:title="@string/one" />
+    <item
+        android:id="@+id/ortaa"
+        android:icon="@drawable/img_17"
+        android:title="@string/one" />
+    <item
+        android:id="@+id/end"
+        android:icon="@drawable/img_16"
+        android:title="@string/one" />
+
+</menu>
